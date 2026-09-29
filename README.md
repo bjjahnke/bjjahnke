@@ -20,8 +20,7 @@ Data engineer with a geoscience background. I build data pipelines, analysis-rea
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project name](link-to-repo) | [One line on what it does] | [e.g., Python, SQL, Airflow] |
-| [Project name](link-to-repo) | [One line on what it does] | [e.g., Python, pandas, PostgreSQL] |
+| [US City Cards](https://github.com/bjjahnke/us-city-cards) | Pipeline for 153 US city trading cards: Census data, geocoding, weather API ingestion | Python, pandas, geopandas, Open-Meteo |
 
 ---
 
