@@ -28,6 +28,7 @@ Data engineer with a geoscience background. I build data pipelines, analysis-rea
 ## Publications
 
 - Jahnke, B., Sone, H., Guo, H., et al. (2023). [Geomechanical analysis of the geothermal reservoir at San Emidio, Nevada](https://doi.org/10.1016/j.geothermics.2023.102683). *Geothermics*, 110, 102683.
+- Jahnke, B., Ruplinger, C., Bate, C.E. et al. (2022). [Fracture toughness of schist, amphibolite, and rhyolite from the Sanford Underground Research Facility (SURF), Lead, South Dakota](https://doi.org/10.1038/s41598-022-20031-y). *Sci Rep*, 12, 15941.
 
 ---
 
