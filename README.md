@@ -1,6 +1,6 @@
 # Ben Jahnke
 
-Data engineer with a geoscience background. I build data pipelines, analysis-ready datasets, and analytical code. Experience with structured, unstructured, and geospatial data. M.S. in Geological Engineering, University of Wisconsin-Madison.
+Data engineer. Builds data pipelines, infrastructure, and internal tools that streamline data workflows. Analyzes data to inform business and engineering decisions. Experience building from zero at early-stage startups and multi-institution research collaborations. Background in energy, natural resources, engineering, construction, and GIS. M.S. in Geological Engineering, University of Wisconsin–Madison.
 
 ---
 
