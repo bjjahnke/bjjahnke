@@ -7,11 +7,11 @@ Data architect and engineer. Designs and builds data pipelines, infrastructure, 
 ## Tech Stack
 
 - **Languages:** Python, SQL, bash, MATLAB, R
-- **Python libraries:** pandas, NumPy, SciPy, geopandas, matplotlib, pytest
-- **Data engineering:** ETL/ELT pipelines, schema design, data validation, QA/QC, web scraping, data lakes, data modeling
-- **Warehouses and cloud:** BigQuery, GCP
-- **File formats:** CSV, Parquet, HDF5, JSON, GeoJSON, shapefiles, geopackages
-- **GIS:** QGIS, ArcGIS
+- **Python libraries:** pandas, NumPy, SciPy, geopandas, rasterio, matplotlib, pytest
+- **Data engineering:** ETL/ELT pipelines, medallion architecture (bronze/silver/gold), schema design, data validation, QA/QC, web scraping, data lakes, data modeling
+- **Warehouses and cloud:** DuckDB, BigQuery, GCP
+- **File formats:** CSV, Parquet, HDF5, JSON, GeoJSON, GeoPDF, shapefiles, geopackages
+- **GIS:** QGIS, ArcGIS, MapLibre GL JS
 - **Tools:** Git, GitHub, GitHub Actions (CI), Jupyter
 
 ---
@@ -20,6 +20,7 @@ Data architect and engineer. Designs and builds data pipelines, infrastructure, 
 
 | Project | Description | Tech |
 |---|---|---|
+| [Map Library Atlas](https://github.com/bjjahnke/map-library-atlas) | Geospatial index of a personal map collection: a bronze/silver/gold pipeline that inventories PDF and image maps, assigns each a bounding box, and shows the footprints on an interactive globe | Python, DuckDB, rasterio, pypdf, MapLibre GL JS, pytest |
 | [Focal Mechanism Stress Inversion](https://github.com/bjjahnke/focal-mechanism-stress-inversion) | Config-driven pipeline that turns raw earthquake catalogs into validated subsurface stress estimates, with input validation, documented schemas, and matching Python and MATLAB versions tested in CI | Python, pandas, NumPy, SciPy, MATLAB, pytest |
 | [US City Cards](https://github.com/bjjahnke/us-city-cards) | Pipeline for 153 US city trading cards: Census data, geocoding, weather API ingestion | Python, pandas, geopandas, Open-Meteo |
 
