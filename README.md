@@ -1,6 +1,6 @@
 # Ben Jahnke
 
-Data, climate, energy, and engineering professional. Experienced with data architecture, engineering, and analytics. Designs and builds data pipelines, infrastructure, and internal tools that streamline data workflows. Analyzes data to inform business and engineering decisions. Experience building from zero at early-stage startups and multi-institution research collaborations. Background in energy, natural resources, engineering, construction, and GIS. M.S. in Geological Engineering, University of Wisconsin–Madison.
+Data and analytics professional focused on energy, natural resources, and industry. Experience across software development, data engineering, analytics, and strategy at an early-stage carbon storage startup. Background in geoscience and geothermal energy research, with an M.S. and B.S. in Geological Engineering from the University of Wisconsin–Madison.
 
 ---
 
@@ -9,7 +9,7 @@ Data, climate, energy, and engineering professional. Experienced with data archi
 - **Languages:** Python, SQL, bash/PowerShell, MATLAB, R
 - **Python libraries:** pandas, NumPy, SciPy, geopandas, rasterio, matplotlib, pytest
 - **Data engineering:** ETL/ELT pipelines, medallion architecture (bronze/silver/gold), schema design, data validation, QA/QC, web scraping, data lakes, data modeling
-- **Warehouses and cloud:** DuckDB, BigQuery, GCP
+- **Cloud:** AWS, GCP, BigQuery, DuckDB
 - **File formats:** CSV, XLSX, Parquet, HDF5, JSON, GeoJSON, GeoPDF, shapefiles, geopackages
 - **GIS:** QGIS, ArcGIS, MapLibre GL JS
 - **Tools:** Git, GitHub, GitHub Actions (CI), Jupyter, Excel
